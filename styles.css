@@ -1,0 +1,28 @@
+html body{    
+    margin: 0px;
+    padding: 0px;
+    background-color: salmon;
+}
+header h1 {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+}
+
+section {
+    margin: 0px;
+    display: flex;
+    background-color: aquamarine;
+}
+
+footer {
+    display: flex;
+    margin-bottom: end;
+    background-color: black;
+    height: 20px;
+}
+footer p {
+    margin: 0;
+    color: white;
+}
